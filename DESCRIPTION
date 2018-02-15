@@ -1,17 +1,18 @@
-Package: recharts
+Package: recharts2
 Type: Package
 Title: An R Interface to ECharts 2
-Version: 0.2
-Date: 2016-12-25
+Version: 1.0
+Date: 2018-02-14
 Authors@R: c(
     person("Liyun", "Chen", role = "aut"),
     person("Taiyun", "Wei", role = c("aut", "cre"), email = "weitaiyun@gmail.com"),
     person("Yihui", "Xie", role = "aut"),
+    person("Lilei", "Hu", role = "aut"),
     person("Yang", "Zhou", role = "aut"),
     person("Yiying", "Wang", role = "aut", email = "madlogos@gmail.com"),
     person("Baidu Inc", role = c("ctb", "cph"), comment = "the ECharts library under htmlwidgets/lib")
     )
-Description: Provides an R interface to the JavaScript library ECharts for
+Description: Provides an R interface to the JavaScript library ECharts2.0 for
     interactive data visualization.
 Imports:
     htmltools,
